@@ -1,27 +1,31 @@
+body {
+	background-color: #96DDDD;
+}
+
 h1 {
 	background-color: #205B5B;
 	color: rgb(255, 255, 255);
-	font-family: "Arial";
+	font-family: "Arial", sans serif;
 	font-size: 22px;
 }
 
 h2 {
 	background-color: #6BA3A3;
 	color: rgb(255, 255, 255);
-	font-family: "Arial";
+	font-family: "Arial", sans serif;
 	font-size: 18px;
 }
 
 h4 {
 	background-color: #6FA8A8;
 	color: rgb(255, 255, 255);
-	font-family: "Arial";
+	font-family: "Arial", sans serif;
 	font-size: 12px;
 }
 
 p {
-	background-color: #96DDDD;
 	color: rgb(255, 255, 255);
-	font-family: "Arial";
+	font-family: "Arial", sans serif;
 	font-size: 12px;
+	text-align: justify;
 }
