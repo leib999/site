@@ -26,3 +26,7 @@ p {
 	font-size: 12px;
 	text-align: justify;
 }
+
+blockquote p {
+	background-color: #8EFFEC
+}
