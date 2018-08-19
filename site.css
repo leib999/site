@@ -2,6 +2,11 @@ body {
 	background-color: #4dd7c5;
 }
 
+body a {
+	text-decoration: none;
+	color: #246f42;
+}
+
 h1, h2, h4, p {
 	color: rgb(255, 255, 255);
 	font-family: "Montserrat", "Arial", sans-serif;
