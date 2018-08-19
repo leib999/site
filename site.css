@@ -29,5 +29,7 @@ p {
 
 blockquote p {
 	color: rgb(0, 0, 0);
-	background-color: #8EFFEC
+	background-color: #8EFFEC;
+	width: 300px;
+	border: 0.3em solid #246f42;
 }
