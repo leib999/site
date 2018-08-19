@@ -1,5 +1,7 @@
 body {
 	background-color: #4dd7c5;
+	box-sizing: border;
+	width: 720px;
 }
 
 body a {
@@ -7,7 +9,7 @@ body a {
 	color: #246f42;
 }
 
-h1, h2, h4, p {
+h1, h2, h4, p, a {
 	color: rgb(255, 255, 255);
 	font-family: "Montserrat", "Arial", sans-serif;
 }
@@ -17,22 +19,24 @@ h1 {
 	background-color: #246f42;
 	font-size: 22px;
 	padding: 16px;
+	font-size: 40px;
+	text-align: center;
 }
 
 h2 {
 	background-color: #32793f;
-	font-size: 18px;
+	font-size: 22px;
 	padding: 12px;
 }
 
 h4 {
 	background-color: #47a669;
-	font-size: 14px;
+	font-size: 18px;
 	padding: 9px;
 }
 
 p {
-	font-size: 12px;
+	font-size: 16px;
 	text-align: justify;
 }
 
